@@ -1,0 +1,3 @@
+Hello
+This is to practice the basic commands.
+Welcome to training sessions.
