@@ -1,3 +1,4 @@
 This line is modified for git commands practice.
 This is to practice the basic commands.
 Welcome to training sessions.
+This is last line added for rebase testing pirposose.
